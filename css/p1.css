@@ -1,0 +1,36 @@
+body {
+    background-color: #fcfdfe;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-color: #2b616d;
+}
+
+h1 {
+    font-family: 'Baloo Tamma', sans-serif;
+    color: #fa8d62;
+}
+
+.row {
+    height: 100vh;
+}
+
+a {
+    display: block;
+}
+
+img {
+    width: 200px;
+    border: #ffffff solid 3px;
+    border-radius: 100px;
+}
+
+#bio-section {
+    background-color: #2b616d;
+    text-align: center;
+}
+
+#bio-section h1 {
+    color: #b2dbd5;
+}
