@@ -1,7 +1,7 @@
 body {
     background-color: #fcfdfe;
     font-family: 'Open Sans', sans-serif;
-    font-size: 3vw;
+    font-size: 4vw;
 }
 
 header {
@@ -28,7 +28,7 @@ section {
 }
 
 section h1 {
-    font-size: 4vw;
+    font-size: 4.5vw;
     text-align: left;
 }
 
@@ -47,7 +47,7 @@ img {
 
 #bio-section h1 {
     color: #fcfdfe;
-    font-size: 5vw;
+    font-size: 7vw;
 }
 
 #bio-section img {
@@ -103,6 +103,7 @@ a:hover {
     }
     img {
         width: 200px;
+        margin-bottom: 5px;
     }
     a {
         margin-left: 4vw;
@@ -132,6 +133,7 @@ a:hover {
     }
     section h1 {
         font-size: 2vw;
+        text-align: center;
     }
     #bio-section h1 {
         font-size: 2vw;
