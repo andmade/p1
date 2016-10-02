@@ -43,12 +43,12 @@
             <h1>Project Portfolio</h1>
             <section class="row ">
                 <div class="column small-5 medium-12">
-                    <img src="placeholder.png" alt="Placeholder Image" />
+                    <img src="p2screenshot.png" alt="Placeholder Image" />
                 </div>
                 <div class="column small-7 medium-12">
                     <h1>P2 | xkcd password gen</h1>
-                    <a href="#">Live Site</a>
-                    <a href="#">Github Repo</a>
+                    <a href="http://p2.andmade.me">Live Site</a>
+                    <a href="https://github.com/andmade/p2">Github Repo</a>
                 </div>
             </section>
         </div>
